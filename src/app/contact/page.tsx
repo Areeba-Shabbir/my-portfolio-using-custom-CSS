@@ -9,11 +9,14 @@ export default function Contact(): JSX.Element {
           <h4>Looking for a dedicated frontend developer for your next project?</h4>
           <p>&quot;Let&rsquo;s create something amazing together! I&rsquo;m here to answer questions, explore new ideas, or chat about projects. Drop me a message!&quot;</p>
           <div className="list">
-          <li>
-  <h5>Here's my contact number:</h5>
-  <span style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>03012497612</span>
-</li>
-            <li><h5>Here's my Email:</h5><a href="mailto:shabbirareeba94@gmail.com">shabbirareeba94@gmail.com</a></li>
+            <li>
+              <h5>Here&apos;s my contact number:</h5>
+              <span style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>03012497612</span>
+            </li>
+            <li>
+              <h5>Here&apos;s my Email:</h5>
+              <a href="mailto:shabbirareeba94@gmail.com">shabbirareeba94@gmail.com</a>
+            </li>
           </div>
 
           <div className="contact-form">
